@@ -26,9 +26,10 @@ body {
 
 #fascia-navigazione {
     height: 91px;
+
 }
 
-#fascia-nvigazione a {
+#fascia-navigazione a {
     color:#4971FF;
     text-decoration: none;
     font-size: 1.2 rem;
@@ -40,10 +41,12 @@ body {
 
 #fascia-carousel {
     height: 367px;
+    padding-top: 300px;
 }
 
 #fascia-card {
     min-height: 367px;
+    padding-top: 60px;
 }
 
 #fascia-testo {
