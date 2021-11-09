@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 .azzurra {
     background-color: #4971FF;
     color: #FFFFFF;
@@ -11,4 +16,5 @@
 }
 #fascia1 a:hover {
     color: #00aeff;
+    padding-right: 105px;
 }
