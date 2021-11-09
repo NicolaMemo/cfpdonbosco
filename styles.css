@@ -1,11 +1,14 @@
 .azzurra {
     background-color: #4971FF;
-    color: FFFFFF;
+    color: #FFFFFF;
 }
-#fascia-azzurra {
+#fascia1 {
     height: 36px;
 }
-#fascia-azzurra a {
+#fascia1 a {
     color: #FFFFFF;
     text-decoration: none;
+}
+#fascia1 a:hover {
+    color: #00aeff;
 }
