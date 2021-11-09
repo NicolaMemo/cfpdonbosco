@@ -52,5 +52,11 @@ body {
 }
 
 #fascia-testo {
-    min-height: 367px;
+ height: 367px;
+    color: black;
+}
+
+#mappa {
+    padding-top: 160px;
+    
 }
