@@ -2,3 +2,10 @@
     background-color: #4971FF;
     color: FFFFFF;
 }
+#fascia-azzurra {
+    height: 36px;
+}
+#fascia-azzurra a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
