@@ -26,6 +26,7 @@ body {
 
 #fascia-navigazione {
     height: 91px;
+    padding-top: 10px;
 
 }
 
@@ -41,11 +42,12 @@ body {
 
 #fascia-carousel {
     height: 367px;
-    padding-top: 300px;
+    padding-top: 5px;
 }
 
 #fascia-card {
-   height: 367px;
+    color:black;
+    height: 367px;
     padding-top: 60px;
 }
 
